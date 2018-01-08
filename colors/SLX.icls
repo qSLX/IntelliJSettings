@@ -1,0 +1,33 @@
+<scheme name="SLX" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <colors>
+    <option name="NOTIFICATION_BACKGROUND" value="8c251e" />
+  </colors>
+  <attributes>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="e2e2e2" />
+        <option name="BACKGROUND" value="607a4a" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="323232" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="BACKGROUND" value="59ba4d" />
+        <option name="EFFECT_COLOR" value="323232" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
