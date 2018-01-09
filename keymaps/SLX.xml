@@ -225,7 +225,7 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f6" />
+    <keyboard-shortcut first-keystroke="alt f1" />
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
