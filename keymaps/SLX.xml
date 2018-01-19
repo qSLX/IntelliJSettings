@@ -127,7 +127,7 @@
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="shift f2" />
+    <keyboard-shortcut first-keystroke="alt f2" />
   </action>
   <action id="FindUsagesInFile" />
   <action id="ForceRunToCursor" />
