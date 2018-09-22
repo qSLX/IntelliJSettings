@@ -15,6 +15,9 @@
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
   <action id="AddToFavoritesPopup" />
+  <action id="Android.BuildApk">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="Android.CleanRun" />
   <action id="AutoIndentLines" />
   <action id="Back">
@@ -47,9 +50,7 @@
   <action id="CollapseSelection" />
   <action id="CollapseTreeNode" />
   <action id="CompareTwoFiles" />
-  <action id="CompileDirty">
-    <keyboard-shortcut first-keystroke="f8" />
-  </action>
+  <action id="CompileDirty" />
   <action id="Console.Execute" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.History.Browse" />
