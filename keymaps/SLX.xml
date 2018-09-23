@@ -237,7 +237,9 @@
   <action id="Refactorings.QuickListPopupAction" />
   <action id="ReformatCode" />
   <action id="Refresh" />
-  <action id="RenameElement" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="RerunTests" />
