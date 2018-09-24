@@ -41,6 +41,10 @@
   <action id="CloseActiveTab" />
   <action id="CloseContent" />
   <action id="Cluestick.SearchMenu" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll" />
   <action id="CollapseAllRegions" />
@@ -67,6 +71,7 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DomCollectionControl.Add" />
   <action id="DomElementsTreeView.AddElement" />
   <action id="DumpLookupElementWeights" />
@@ -74,6 +79,9 @@
   <action id="EditSourceInNewWindow" />
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection" />
   <action id="EditorDeleteLine" />
@@ -88,6 +96,7 @@
   <action id="EditorPasteSimple" />
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleCase" />
   <action id="EditorToggleColumnMode" />
@@ -156,11 +165,15 @@
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="GotoPreviousError" />
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
   <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol" />
@@ -212,7 +225,9 @@
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="OptimizeImports" />
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="PasteMultiple" />
   <action id="PopupHector" />
   <action id="PreviousDiff" />
@@ -223,6 +238,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="ProjectViewChangeView" />
+  <action id="QuickActionPopup" />
   <action id="QuickChangeScheme" />
   <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations">
@@ -269,7 +285,9 @@
   <action id="ShowContent" />
   <action id="ShowExecutionPoint" />
   <action id="ShowFilePath" />
-  <action id="ShowIntentionActions" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
   <action id="ShowNavBar" />
   <action id="ShowProjectStructureSettings" />
   <action id="ShowRecentTests" />
@@ -278,6 +296,9 @@
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages" />
   <action id="SmartStepInto" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
@@ -328,6 +349,7 @@
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewBreakpoints" />
+  <action id="ViewSource" />
   <action id="com.developerphil.adbidea.action.AdbIdeaQuickList" />
   <action id="context.clear" />
   <action id="context.load" />
