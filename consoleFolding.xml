@@ -2,8 +2,11 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
-        <option value="dalvikvm" />
         <option value="Adreno-EGL" />
+        <option value="dalvikvm" />
+        <option value="OpenGLRenderer" />
+        <option value="Timeline" />
+        <option value="jdwp" />
       </list>
     </option>
   </component>
