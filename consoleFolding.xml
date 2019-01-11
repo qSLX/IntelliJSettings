@@ -4,9 +4,11 @@
       <list>
         <option value="Adreno-EGL" />
         <option value="dalvikvm" />
-        <option value="OpenGLRenderer" />
-        <option value="Timeline" />
         <option value="jdwp" />
+        <option value="OpenGLRenderer" />
+        <option value="Settings" />
+        <option value="Timeline" />
+        <option value="Conscrypt" />
       </list>
     </option>
   </component>
