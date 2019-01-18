@@ -4,7 +4,7 @@
     <property name="created">2019-01-18T11:39:38</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.3.0.20</property>
-    <property name="modified">2019-01-18T13:41:22</property>
+    <property name="modified">2019-01-18T15:57:00</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -318,7 +318,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cf6a4c" />
+        <option name="FOREGROUND" value="cf302e" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -1083,14 +1083,34 @@
         <option name="FOREGROUND" value="95e392" />
       </value>
     </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="798189" />
+      </value>
+    </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f8ef7f" />
+        <option name="FOREGROUND" value="f88b67" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="95e392" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="cf302e" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="798189" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f88b67" />
       </value>
     </option>
     <option name="LUA_PARAMETER">
