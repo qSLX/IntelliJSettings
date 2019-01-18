@@ -1,21 +1,20 @@
-<code_scheme name="SLX">
+<code_scheme name="SLX" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="150" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="FIELD_NAME_PREFIX" value="f" />
+    <option name="STATIC_FIELD_NAME_PREFIX" value="f" />
+    <option name="PARAMETER_NAME_PREFIX" value="a" />
+    <option name="LOCAL_VARIABLE_NAME_PREFIX" value="l" />
+  </JavaCodeStyleSettings>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -37,8 +36,8 @@
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
     </class>
     <extensions>
-      <pair source="cpp" header="h" />
-      <pair source="c" header="h" />
+      <pair source="cpp" header="h" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
   <XML>
@@ -67,6 +66,7 @@
     <option name="SPACE_BEFORE_SYNCHRONIZED_PARENTHESES" value="false" />
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="THROWS_KEYWORD_WRAP" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="3" />
       <option name="CONTINUATION_INDENT_SIZE" value="3" />

@@ -8,7 +8,6 @@
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="JAVADOC_STUB_ON_ENTER" value="false" />
     <option name="SMART_END_ACTION" value="false" />
     <option name="JAVADOC_GENERATE_CLOSING_TAG" value="false" />
