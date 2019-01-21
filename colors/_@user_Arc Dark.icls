@@ -4,7 +4,7 @@
     <property name="created">2019-01-18T11:39:38</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.3.0.20</property>
-    <property name="modified">2019-01-18T15:57:00</property>
+    <property name="modified">2019-01-21T17:29:08</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -56,7 +56,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2b2e39" />
     <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="29498c" />
+    <option name="SELECTION_BACKGROUND" value="36d9" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="404552" />
     <option name="TEARLINE_COLOR" value="393a3c" />
     <option name="TOOLTIP" value="262b33" />
@@ -147,6 +147,17 @@
       <value>
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
+      </value>
+    </option>
+    <option name="BRACE_ATTR">
+      <value>
+        <option name="BACKGROUND" value="640061" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BRACKET_ATTR">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -438,6 +449,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CUSP_BRACKETS_ATTR">
+      <value>
+        <option name="BACKGROUND" value="c8657a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="82b1ff" />
@@ -718,6 +735,12 @@
     <option name="DJANGO_TAG_START_END">
       <value>
         <option name="FOREGROUND" value="a7a7a7" />
+      </value>
+    </option>
+    <option name="DOUBLE_QUOTE_ATTR">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ba00b4" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -1957,6 +1980,13 @@
         <option name="BACKGROUND" value="8b9eb5" />
       </value>
     </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a7a7a7" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="OC.BADCHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="cf6a4c" />
@@ -2181,6 +2211,12 @@
     <option name="OC.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="a7a7a7" />
+      </value>
+    </option>
+    <option name="PARENTHESIS_ATTR">
+      <value>
+        <option name="BACKGROUND" value="ba00b4" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -2639,6 +2675,11 @@
       <value>
         <option name="EFFECT_COLOR" value="ffeb95" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="cf302e" />
       </value>
     </option>
     <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
