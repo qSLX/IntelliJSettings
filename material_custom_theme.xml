@@ -4,6 +4,7 @@
     <option name="highlightColor" value="425b67" />
     <option name="secondBorderColor" value="2a373e" />
     <option name="contrastColor" value="1e272c" />
+    <option name="disabledColor" value="50525f" />
     <option name="secondaryBackgroundColor" value="32424a" />
     <option name="buttonColor" value="2e3c43" />
     <option name="selectionForegroundColor" value="ffffff" />
