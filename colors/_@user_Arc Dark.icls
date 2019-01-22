@@ -4,7 +4,7 @@
     <property name="created">2019-01-18T11:39:38</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.3.0.20</property>
-    <property name="modified">2019-01-22T13:47:25</property>
+    <property name="modified">2019-01-22T18:01:52</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -57,8 +57,8 @@
     <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="36d9" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="cebf6b" />
-    <option name="SEPARATOR_BELOW_COLOR" value="70788a" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="6a6158" />
+    <option name="SEPARATOR_BELOW_COLOR" value="6a6158" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="404552" />
     <option name="TEARLINE_COLOR" value="6f7175" />
     <option name="TOOLTIP" value="262b33" />
@@ -2600,7 +2600,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="262b33" />
+        <option name="BACKGROUND" value="540a" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
@@ -2700,7 +2700,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="444773" />
+        <option name="BACKGROUND" value="499249" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
